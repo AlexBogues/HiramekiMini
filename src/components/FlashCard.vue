@@ -18,7 +18,7 @@ const flipCard = () => {
 
       <!-- Back of card -->
       <div class="flashcard-face back">
-        <span class="english-text">to go fast</span>
+        <span class="english-text">Gotta go fast!</span>
       </div>
     </div>
   </div>
