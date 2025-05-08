@@ -17,7 +17,7 @@ export default defineConfig({
     //minify: false, ---- TODO- comment this back when ready to deploy
     rollupOptions: {
       output: {
-        entryFileNames: 'hiramekumini.js',
+        entryFileNames: 'hiramekimini.js',
       },
     },
   },

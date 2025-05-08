@@ -20,7 +20,7 @@ export const pluginsWrapper = {
 
 createWebComponent({
   rootComponent: App,
-  elementName: 'hiramekumini-test',
+  elementName: 'hiramekimini-test',
   plugins: pluginsWrapper,
   VueDefineCustomElement,
   h,
